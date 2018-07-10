@@ -1,4 +1,9 @@
-# IOT-ESP8266-Google-Home
+# IOT-Google-Home with Ethernet Shield
+Project cloned from Nassir Malik project: 
+https://github.com/nassir-malik/IOT-ESP8266-Google-Home
+
+
+All documentation below refers to original project
 
 YouTube tutorial -->https://www.youtube.com/watch?v=Uvg0ruRkKgY
 
